@@ -1,0 +1,13 @@
+<div class="recent">
+    <h3>Recent posts</h3>
+<ul class="posts">
+    {% for post in site.posts % limit:5 %}
+  
+      <li itemscope>
+        {{ post.date | date: "%B %-d" }} <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+  
+    {% endfor %}
+  </ul>
+
+</div>
