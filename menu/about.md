@@ -43,10 +43,10 @@ For the past four years I have worked as a researcher at [CENTRA/SIM](https://ce
   : R
   : Fortran
   : MATLAB
-  : Parallel/distributed computing (MPI, Spark)
+  : Parallel/distributed computing: Spark, Hadoop, MPI
 
 **Databases**
-  : PostgresSQL
+  : PostgreSQL
   : SQLite
   : PL/SQL
 
