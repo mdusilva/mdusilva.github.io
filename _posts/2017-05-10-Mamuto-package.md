@@ -93,6 +93,6 @@ rdd = sc.parallelize(args)
 result = rdd.map(lambda x: model.like(x[0],x[1])).collect()
 ```
 
-It takes roughly the same ammount of work as using `mamuto`, However this is for the simple case of running only local workers. TO configure [pyspark](http://spark.apache.org/docs/2.1.0/api/python/pyspark.html) to use a cluster takes much more work, whereas using `mamuto` we don't need to chenge anythin appart from the list of hosts written on the configuration file, it is only one call to `create_config_file` just as in the local configuration case.
+It takes roughly the same ammount of work as using `mamuto`, However this is for the simple case of running only local workers. To configure [pyspark](http://spark.apache.org/docs/2.1.0/api/python/pyspark.html) to use a cluster takes much more work, whereas using `mamuto` we don't need to change anything appart from the list of hosts written on the configuration file, it is only one call to `create_config_file` just as in the local configuration case.
 
 It also interesting to note that `mamuto` is much faster than [pyspark](http://spark.apache.org/docs/2.1.0/api/python/pyspark.html) when running on a local machine for small jobs. In our example with arguments with a dimension of 1000 `mamuto` takes 0.016 sec whereas [pyspark](http://spark.apache.org/docs/2.1.0/api/python/pyspark.html) is much slower taking 0.11 sec. For larger jobs, for example for `n=100000`, [pyspark](http://spark.apache.org/docs/2.1.0/api/python/pyspark.html) becomes faster, taking 0.54 sec and `mamuto` taking 2.07 sec.
