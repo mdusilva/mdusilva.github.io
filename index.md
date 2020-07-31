@@ -11,7 +11,7 @@ title: Home
   <div class="column right">
   <!-- <h3>Manuel Silva</h3> -->
   <p class="home">I am an Astronomer with a background in Statistics and a fascination for Machine Learning and Artificial Intelligence. I also have a more technical side and like to code, especially in Python, and tinker with databases. I enjoy working in multidisciplinary teams and I am always seeking to learn and improve. </p>
-  <a href="files/CV_ManuelSilva.pdf"><span>My CV</span></a>
+  <a href="files/Manuel_Silva_CV.pdf"><span>My CV</span></a>
   
 
   </div>
