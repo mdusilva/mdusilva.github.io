@@ -3,13 +3,15 @@ layout: page
 title: About
 ---
 
-For the past four years I have worked as a researcher at [CENTRA/SIM](https://centra.tecnico.ulisboa.pt/). The focus of my work was the development of data mining/machine learning software tools for analysis of the large datasets from the Gaia mission of the European Space Agency (ESA). Prior to this I was a PhD researcher, modelling the spiral arms of our own Galaxy as traced by runaway stars (featured in [New Scientist magazine](https://www.newscientist.com/article/mg21729044.000-runaway-stars-to-fill-in-the-blanks-in-milky-way-map/)).
+For the past two years I have worked as a Data Scientist/Python Developer at [PASS](http://www.passp.com/), a Lisbon based Fintech startup. The focus of my work has been the development of quantitative based investment models, using Machine Learning/Statistics algorithms, as well as the development of backtesting and automatic order execution software.
+
+Previously I worked as a researcher at [CENTRA/SIM](https://centra.tecnico.ulisboa.pt/). The focus of my work was the development of data mining/machine learning software tools for analysis of the large datasets from the Gaia mission of the European Space Agency (ESA). Prior to this I was a PhD researcher, modelling the spiral arms of our own Galaxy as traced by runaway stars (featured in [New Scientist magazine](https://www.newscientist.com/article/mg21729044.000-runaway-stars-to-fill-in-the-blanks-in-milky-way-map/)).
 
 [Download CV](../files/Manuel_Silva_CV.pdf)
 ### Work
 ---
-
-  2013 – Present: **Researcher** at [CENTRA/SIM](https://centra.tecnico.ulisboa.pt/), Portugal
+  2018 - Present: **Data Scientist** at [PASS](http://www.passp.com/), Portugal
+  2013 – 2017: **Researcher** at [CENTRA/SIM](https://centra.tecnico.ulisboa.pt/), Portugal
  : Projects: 
  * national participation in the [OPTICON](http://www.astro-opticon.org/) consortium. Role: development of PSF reconstruction code.
  * national participation in [Data Processing and Analysis Consortium (DPAC)](https://www.cosmos.esa.int/web/gaia/dpac) consortium for the mission Gaia of the European Space Agency (ESA). Role: development of tools for the scientific exploitation of large datasets.
